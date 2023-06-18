@@ -1,0 +1,3 @@
+- tegs: #Python
+- Инструмен для профилирования кода на python
+- [py-spy](https://github.com/benfred/py-spy) - ссылка на гит

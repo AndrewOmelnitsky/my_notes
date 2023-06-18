@@ -1,0 +1,5 @@
+- tegs: #Python #[[to learn]] #inbox
+-
+- {{video https://youtu.be/dKxiHlZvULQ}}
+-
+-
